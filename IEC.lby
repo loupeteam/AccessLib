@@ -26,5 +26,6 @@
     <Dependency ObjectName="standard" />
     <Dependency ObjectName="LogThat" FromVersion="0.04.1" ToVersion="0.05.9" />
     <Dependency ObjectName="AsBrStr" />
+    <Dependency ObjectName="BRSE_ARL" />
   </Dependencies>
 </Library>
