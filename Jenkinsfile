@@ -1,0 +1,3 @@
+library "jenkinsLibrary@master"
+
+buildPublishPipeline()
