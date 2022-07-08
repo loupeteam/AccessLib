@@ -1,3 +1,5 @@
 library "jenkinsLibrary@master"
 
-buildPublishPipeline()
+buildPublishPipeline(
+    slackChannel: "sandbox-github"
+)
