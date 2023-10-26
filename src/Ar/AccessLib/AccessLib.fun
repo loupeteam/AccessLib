@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: Access_Lib
- * File: Access_Lib.fun
- * Author: David
- * Created: August 18, 2010
- ********************************************************************
+(*
+ * File: AccessLib.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of AccessLib, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Functions and function blocks of library Access_Lib
  ********************************************************************)
 

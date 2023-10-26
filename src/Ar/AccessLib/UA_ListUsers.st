@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: AccessLib
+(*
  * File: UA_ListUsers.st
- * Author: David Blackburn
- * Created: October 21, 2011
- ********************************************************************
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of AccessLib, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Implementation of library AccessLib
  ********************************************************************) 
 

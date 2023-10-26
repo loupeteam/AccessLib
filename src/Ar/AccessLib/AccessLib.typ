@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: Access_Lib
- * File: Access_Lib.typ
- * Author: David
- * Created: August 18, 2010
- ********************************************************************
+(*
+ * File: AccessLib.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of AccessLib, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Data types of library Access_Lib
  ********************************************************************)
 

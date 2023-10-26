@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: AccessLib
+(*
  * File: UserAccessFn_Cyclic.st
- * Author: David
- * Created: August 18, 2010
- ********************************************************************
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of AccessLib, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Implementation of library AccessLib
  ********************************************************************) 
 

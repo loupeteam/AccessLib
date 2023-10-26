@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: AccessLib
+(*
  * File: UA_Hide.st
- * Author: davidblackburn
- * Created: February 12, 2014
- ********************************************************************
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of AccessLib, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Implementation of library AccessLib
  ********************************************************************) 
 
