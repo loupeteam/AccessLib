@@ -1,13 +1,11 @@
 (*
- * File: AccessLib.fun
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of AccessLib, licensed under the MIT License.
- * 
-  ********************************************************************
- * Functions and function blocks of library Access_Lib
- ********************************************************************)
+* File: AccessLib.fun
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*)
 
 FUNCTION UA_Logout : UDINT (*Logout function*)
 	VAR_IN_OUT

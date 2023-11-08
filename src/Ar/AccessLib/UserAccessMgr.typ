@@ -1,13 +1,11 @@
 (*
- * File: UserAccessMgr.typ
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of AccessLib, licensed under the MIT License.
- * 
-  ********************************************************************
- * Data types of library AccessLib
- ********************************************************************)
+* File: UserAccessMgr.typ
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*)
 
 TYPE
 	UserAccessMgr_Int_HMI_typ : 	STRUCT 

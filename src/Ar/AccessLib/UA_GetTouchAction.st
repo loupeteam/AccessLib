@@ -1,13 +1,11 @@
 (*
- * File: UA_GetTouchAction.st
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of AccessLib, licensed under the MIT License.
- * 
-  ********************************************************************
- * Implementation of library Access_Lib
- ********************************************************************) 
+* File: UA_GetTouchAction.st
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*) 
 
 
 (********************************************************************)

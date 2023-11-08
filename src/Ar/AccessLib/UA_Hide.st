@@ -1,13 +1,11 @@
 (*
- * File: UA_Hide.st
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of AccessLib, licensed under the MIT License.
- * 
-  ********************************************************************
- * Implementation of library AccessLib
- ********************************************************************) 
+* File: UA_Hide.st
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*) 
 
 (* Show or hide an HMI element based on the current user level 		*)
 (* and a minimum required user level 								*)

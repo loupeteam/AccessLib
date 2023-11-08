@@ -1,13 +1,11 @@
 (*
- * File: UserAccessFn_Cyclic.st
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of AccessLib, licensed under the MIT License.
- * 
-  ********************************************************************
- * Implementation of library AccessLib
- ********************************************************************) 
+* File: UserAccessFn_Cyclic.st
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*) 
 
 
 (********************************************************************)

@@ -1,13 +1,11 @@
 (*
- * File: AccessLib.typ
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of AccessLib, licensed under the MIT License.
- * 
-  ********************************************************************
- * Data types of library Access_Lib
- ********************************************************************)
+* File: AccessLib.typ
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*)
 
 TYPE
 	UA_MODE_enum : 

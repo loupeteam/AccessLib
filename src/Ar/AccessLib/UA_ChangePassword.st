@@ -1,13 +1,11 @@
 (*
- * File: UA_ChangePassword.st
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of AccessLib, licensed under the MIT License.
- * 
-  ********************************************************************
- * Implementation of library AccessLib
- ********************************************************************) 
+* File: UA_ChangePassword.st
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*) 
 
 
 (********************************************************************)
