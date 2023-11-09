@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Library xmlns="http://br-automation.co.at/AS/Library" Version="2.03.1" SubType="Binary">
+  <Files>
+    <File>libbrse_arl.chm</File>
+    <File>BRSE_ARL.fun</File>
+    <File>BRSE_ARL.typ</File>
+    <File>brse_arl_main.h</File>
+    <File>libbrse_arl.chw</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="AsArLog" />
+    <Dependency ObjectName="sys_lib" />
+    <Dependency ObjectName="AsBrStr" />
+  </Dependencies>
+</Library>

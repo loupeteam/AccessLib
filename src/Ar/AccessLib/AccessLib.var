@@ -1,0 +1,19 @@
+(*
+* File: AccessLib.var
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of AccessLib, licensed under the MIT License.
+* 
+*)
+VAR CONSTANT
+	UA_MAI_USER : USINT := 99;
+	UA_MAI_VC : USINT := 4;
+	UA_STRLEN_IN : USINT := 25;
+	UA_STRLEN_ERROR : USINT := 200;
+	UA_NOUSER : STRING[UA_STRLEN_IN] := 'None';
+	UA_STATUS_TIMEOUT : USINT := 2; (*Time to hold Valid or Invalid Login and Logout status high [s]*)
+	UA_GTA_FINISHED : BOOL := TRUE; (*UA_GetTouchAction finished*)
+	UA_GTA_BUSY : BOOL := FALSE; (*UA_GetTouchAction is busy*)
+	UA_DEFAULT_LOGGERNAME : STRING[LOG_STRLEN_LOGGERNAME] := 'Access';
+END_VAR
